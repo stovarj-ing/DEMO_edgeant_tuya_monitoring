@@ -1,0 +1,13 @@
+{
+  "device_id": "REEMPLAZA_CON_TU_DEVICE_ID",
+  "device_ip": "192.168.1.150",
+  "local_key": "REEMPLAZA_CON_TU_LOCAL_KEY",
+  "protocol_version": 3.3,
+  "socket_timeout_seconds": 5,
+  "poll_interval_seconds": 5,
+  "max_consecutive_failures_before_backoff": 3,
+  "backoff_seconds": 30,
+  "csv_path": "edgeant_log.csv",
+  "sqlite_path": "edgeant_data.db",
+  "log_path": "edgeant_monitor.log"
+}

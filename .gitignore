@@ -1,0 +1,21 @@
+# Credenciales — NUNCA subirlas
+config.json
+# Accesos de Tuya
+*.local_key
+
+# Datos generados por el monitor
+*.csv
+*.db
+*.log
+
+# Entorno Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
