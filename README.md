@@ -46,8 +46,6 @@ set TUYA_LOCAL_KEY=...
 python edgeant_monitor.py
 ```
 
-> ⚠️ **Seguridad**: `config.json` está en `.gitignore`. Las credenciales Tuya
-> (`local_key`) nunca deben subirse al repositorio.
 
 ---
 
